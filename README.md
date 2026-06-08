@@ -7,3 +7,4 @@ Belajar git workflow lokal.
 # - git init / git add / git commit
 ## Tarikh
 c## Diubah dari laptop
+## Diubah dari salinan kedua
