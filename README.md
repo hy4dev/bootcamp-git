@@ -1,5 +1,4 @@
-# Bootcamp DevOps — Repositori Latihan
-Sesi Git 1
+# Projek Bootcamp Git 2026 — Repositori Latihan
 
 ## Tujuan
 Belajar git workflow lokal.
@@ -7,3 +6,4 @@ Belajar git workflow lokal.
 # ## Senarai Arahan
 # - git init / git add / git commit
 ## Tarikh
+c
